@@ -1,4 +1,4 @@
-### Hi there 👋, Hello I'm Najmul Haque Talukder.
+### Hello I'm Najmul Haque Talukder.
 ![](https://www.facebook.com/share/wQfYeyktYFLCA8Qe/)
 
 Hello I am a Software Developer. I build Android and ios Sofware. Im Studying in Cumilla Polytecnic Institute, Depertment of Computer Scince and Technology.
