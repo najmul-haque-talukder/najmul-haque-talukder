@@ -23,4 +23,12 @@
 
 
 
+<h2>Connect with me!</h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/zubair-ahmed-rafi-95ba3322a/](https://www.linkedin.com/in/najmul-h-talukder-0b45a3316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">]()  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">]((https://www.facebook.com/najmul.9341))
+ <be> <br>
+
+
+
+
 
