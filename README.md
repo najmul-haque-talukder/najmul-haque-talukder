@@ -6,4 +6,9 @@
 
 ### Here's my github stats:
 
+![najmul-haque-talukder GitHub stats](https://github-readme-stats.vercel.app/api?username=najmul-haque-talukder&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najmul-haque-talukder&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=najmul-haque-talukder&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+
 
