@@ -2,7 +2,7 @@
 
 <img src="https://profile-counter.glitch.me/najmul-haque-talukder/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/najmul-haque-talukder.svg?style=social&label=Followers)](https://github.com/walleeva2018?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/najmul-haque-talukder.svg?style=social&label=Followers)](https://github.com/najmul-haque-talukder?tab=followers)
 
 
 
