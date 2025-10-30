@@ -5,6 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/najmul-haque-talukder.svg?style=social&label=Followers)](https://github.com/najmul-haque-talukder?tab=followers)
 
 
+(https://github-readme-activity-graph.vercel.app/graph?username=najmul-haque-talukder&theme=github-compact&hide_border=true&area=true)
+
+
 
 #### Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/najmul.9341) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/najmul_exits) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmul-h-talukder-0b45a3316/) 
