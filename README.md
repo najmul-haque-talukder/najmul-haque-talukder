@@ -2,10 +2,8 @@
 
 <img src="https://profile-counter.glitch.me/najmul-haque-talukder/count.svg">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walleeva2018&theme=github-compact&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmul-haque-talukder&theme=github-compact&hide_border=true&area=true)
 
-
-(https://github-readme-activity-graph.vercel.app/graph?username=najmul-haque-talukder&theme=github-compact&hide_border=true&area=true)
 
 
 
